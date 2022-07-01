@@ -10,9 +10,22 @@ Being part of the College Board, To find out the states that are having low part
 ### Contents:
 - 2017, 2018 & 2019 SAT Data Import and Cleaning
 - 2017, 2018 & 2019 ACT Data Import and Cleaning
-- Exploratory Data Analysis
 - Outside Research
+- Exploratory Data Analysis
+   - Investigate Trends in Data
+    1. Which states have the highest and lowest participation rates for the 2017, 2018, or 2019 SAT and ACT?
+    2. Which states have the highest and lowest mean total/composite scores for the 2017, 2018, or 2019 SAT and ACT?
+    3. Do any states with 100% participation on a given test have a rate change year-to-year?
+    4. Do any states show have >50% participation on both tests each year?
+    5. What is the largest & smallest changes in participation rate for the tests between year to year?
+    6. Shortlist of the states to focus on putting more resouces and efforts
+
 - Data Visualization
+   1. Heatmap - Correlation between the SAT & ACT data of 2017, 2018 & 2019
+   2. Histogram - SAT & ACT Participation Rate
+   3. Boxplot - Range of the Participation Rate, SAT Total Scores & ACT Composite Scores (2017, 2018 & 2019)
+   4. Scatter Plot - Score relations between the relative year
+   5. Scatter Plot - Correlations relations between scores and participation rate
 - Conclusions and Recommendations
 
 ## Data Dictionary
